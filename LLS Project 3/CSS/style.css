@@ -1,0 +1,38 @@
+
+
+
+
+nav {  
+    display: inline-block;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #9c1e23;
+    color: white;
+    display: flex; 
+    text-transform: uppercase;
+    padding: 25px;
+    justify-content: space-evenly; 
+    font-size: larger;
+    position:sticky;
+    top: 0%;
+    box-shadow: 0 0 .8rem rgba(0, 0, 0, .8);
+    
+  } 
+  nav a:hover {
+  background-color: white;
+  color:#9c1e23
+  }
+
+
+  a {
+    text-decoration: none;
+    color: antiquewhite;
+    }
+
+    .logo img{
+         width: 5em;
+    }
+
+    img {
+        width:COVER;
+    }
